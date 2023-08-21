@@ -1,5 +1,4 @@
 # Automatic_File_Sorter
-Automatic_File_Sorter
 
 1. Need to sort files in a folder based on the file types
 2. use os and shutil libraries to deal with directories and File explorer
